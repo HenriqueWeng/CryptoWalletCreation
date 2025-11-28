@@ -72,6 +72,10 @@ Seed: army van defense carry jealous true garbage claim echo media make crunch
 
 Para validar a carteira gerada, você pode importá-la no software Electrum rodando na rede de testes (Testnet).
 
+(Caso voce nao tenha o elctrum basta baixar atraves do site: [Electrum](https://electrum.org/#download)
+
+
+
 ### Passo 1: Configurar o Electrum para Testnet (Windows)
 O Electrum roda na rede principal (Mainnet) por padrão. Para mudar:
 
