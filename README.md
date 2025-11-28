@@ -107,7 +107,20 @@ Isso garante que o endereço gerado no Electrum seja idêntico ao gerado pelo se
 
 ---
 
+## 💸 Como Receber Bitcoins de Teste (Faucet)
+
+Com sua carteira importada no Electrum, você pode testar o recebimento de transações reais (na rede de teste):
+
+1.  Copie o seu endereço gerado (começa com `tb1...`).
+2.  Acesse um **Bitcoin Testnet Faucet** (sites que distribuem moedas de teste gratuitamente), como:
+    * [coinfaucet.eu](https://coinfaucet.eu/en/btc-testnet/)
+    * [bitcoinfaucet.uo1.net](https://bitcoinfaucet.uo1.net/)
+3.  Cole seu endereço e solicite as moedas.
+4.  Verifique no **Electrum**: em instantes, a transação aparecerá como "Unconfirmed" e, após alguns minutos, seu saldo será atualizado!
+---
+
 ## ⚠️ Aviso de Segurança e Responsabilidade
+
 
 > **Este código foi desenvolvido estritamente para fins educacionais.**
 
